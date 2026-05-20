@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
