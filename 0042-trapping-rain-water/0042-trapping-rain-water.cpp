@@ -1,14 +1,15 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int res=0,n=height.size(),leftmax=0;
-        vector<int> nxt(n,0);
-        nxt[n-1]=height[n-1];
-        for(int i=n-2;i>=0;i--)
-            nxt[i]=max(nxt[i+1],height[i]);
-        for(int i=0;i<height.size();i++){
-            leftmax=max(leftmax,height[i]);
-            res+=(min(nxt[i],leftmax)-height[i]);
+        int res=0,l=0,r=height.size()-1,leftmax=INT_MIN,rightmax=INT_MIN;
+        while(l<=r){
+            leftmax=max(leftmax,height[l]);
+            rightmax=max(rightmax,height[r]);
+            if(leftmax<=rightmax){
+                res+=(leftmax-height[l++]);
+            }
+            else
+                res+=(rightmax-height[r--]);
         }
         return res;
     }
