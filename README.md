@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 <!---LeetCode Topics End-->
