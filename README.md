@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
