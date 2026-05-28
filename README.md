@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
