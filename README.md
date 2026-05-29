@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
