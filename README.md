@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0118-pascals-triangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
