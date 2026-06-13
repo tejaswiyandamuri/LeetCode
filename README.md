@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
