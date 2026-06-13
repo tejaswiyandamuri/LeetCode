@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0848-shifting-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0848-shifting-letters/) | Medium |
+| [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
