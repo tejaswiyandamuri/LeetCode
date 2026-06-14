@@ -11,17 +11,18 @@ public:
             }
             st.push(num[i]);
         }
+        while(j<k&&!st.empty()){
+            st.pop();
+            j++;
+        }
         while(!st.empty()){
             res+=st.top();
             st.pop();
         }
         reverse(res.begin(),res.end());
-        string x="";
-        for(int i=0;i<num.size()-k;i++)
-            x+=res[i];
         int i=0;
-        while(x[i]=='0')
-            x.erase(i,1);
-        return x==""?"0":x;
+        while(i<res.size()&&res[i]=='0')
+            res.erase(i,1); 
+        return res==""?"0":res;      
     }
 };
