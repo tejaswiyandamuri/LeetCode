@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
