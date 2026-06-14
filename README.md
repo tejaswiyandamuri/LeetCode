@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0848-shifting-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0848-shifting-letters/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
