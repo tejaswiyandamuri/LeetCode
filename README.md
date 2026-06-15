@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
