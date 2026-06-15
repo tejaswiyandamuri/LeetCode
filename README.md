@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
