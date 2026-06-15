@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
