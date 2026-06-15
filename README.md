@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
