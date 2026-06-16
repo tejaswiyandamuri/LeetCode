@@ -6,7 +6,7 @@ public:
 
         while (temp > 0) {
             int digit = temp % 10;
-            if (digit != 0 && num % digit == 0) {
+            if (num % digit == 0) {
                 count++;
             }
             temp /= 10;
