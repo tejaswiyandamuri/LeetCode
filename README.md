@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
