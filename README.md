@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
