@@ -8,9 +8,6 @@ public:
         if(mp['l']==x*2&&mp['o']==x*2)
             return x;
         int y=min(mp['l'],mp['o']);
-        // if(y/2!=0){
-        //     y-=1;
-        // }  
         return min(x,y/2);
     }
 };
