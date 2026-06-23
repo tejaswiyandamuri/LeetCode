@@ -7,10 +7,6 @@ public:
             f1[s[i]]++;
             f2[t[i]]++;
         }
-        for(auto x:s){
-            if(f1[x]!=f2[x])
-                return false;
-        }
-        return true;
+        return f1==f2;
     }
 };
