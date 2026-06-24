@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Linked List
