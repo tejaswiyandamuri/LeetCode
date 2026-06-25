@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,10 +292,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0398-random-pick-index](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0398-random-pick-index/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
