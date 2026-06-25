@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0085-maximal-rectangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0264-ugly-number-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0231-power-of-two/) | Easy |
@@ -427,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
