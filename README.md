@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
