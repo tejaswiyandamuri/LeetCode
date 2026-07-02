@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
