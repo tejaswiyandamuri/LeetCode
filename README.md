@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2540-minimum-common-value](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
