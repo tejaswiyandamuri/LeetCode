@@ -9,9 +9,8 @@ public:
             sort(cp.begin(),cp.end());
             mp[cp].push_back(strs[i]);
         }
-        for(auto &x:mp){
+        for(auto &x:mp)
             res.push_back(x.second);
-        }
         return res;
     }
 };
