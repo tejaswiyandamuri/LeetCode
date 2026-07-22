@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -458,12 +461,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -487,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -501,4 +508,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0705-design-hashset/) | Easy |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
