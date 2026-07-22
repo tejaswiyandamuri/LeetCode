@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0848-shifting-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0848-shifting-letters/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
