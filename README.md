@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0075-sort-colors/) | Medium |
