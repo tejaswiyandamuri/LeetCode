@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0031-next-permutation/) | Medium |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
