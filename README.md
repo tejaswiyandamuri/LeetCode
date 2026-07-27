@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
