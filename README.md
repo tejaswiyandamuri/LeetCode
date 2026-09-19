@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
