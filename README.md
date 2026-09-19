@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1260-shift-2d-grid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1518-water-bottles](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1518-water-bottles](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
