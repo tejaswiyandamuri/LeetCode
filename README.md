@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0169-majority-element](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
