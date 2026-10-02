@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
@@ -631,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
