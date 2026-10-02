@@ -1,27 +1,26 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int l = 0, matched = 0;
-        unordered_map<char, int> freq, s2mp;
-        for (auto ch : s1)
-            freq[ch]++;
-        int uniques = freq.size();
-        for (int i = 0; i < s2.size(); i++) {
-            if (freq[s2[i]] == s2mp[s2[i]])
-                matched--;
-            s2mp[s2[i]]++;
-            if (freq[s2[i]] == s2mp[s2[i]])
-                matched++;
-            if (i > s1.size() - 1) {
-                if (freq[s2[l]] == s2mp[s2[l]])
-                    matched--;
-                s2mp[s2[l]]--;
-                if (freq[s2[l]] == s2mp[s2[l]])
-                    matched++;
-                l++;
+         vector<int> a(26,0),t(26,0),p(26,0);
+         for(auto x:s1)
+            a[x-'a']++;
+        t=a;
+        int l=0;
+        for(int i=0;i<s2.size();i++){
+            char x=s2[i];
+            if(a[x-'a']==0){
+                t=a;
+                l=i+1;
             }
-            if (matched == uniques)
-                return true;
+            else{                
+                t[x-'a']--;
+                while(l<i&&t[x-'a']<0){
+                    if(a[s2[l]-'a']!=0)
+                        t[s2[l]-'a']++;
+                    l++;
+                }
+            }
+            if(t==p)return true;
         }
         return false;
     }
