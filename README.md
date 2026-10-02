@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
