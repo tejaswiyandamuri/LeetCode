@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
