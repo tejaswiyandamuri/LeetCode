@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0456-132-pattern](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0456-132-pattern/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -389,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -571,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
