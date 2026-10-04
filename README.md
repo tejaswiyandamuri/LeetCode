@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0264-ugly-number-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0848-shifting-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0848-shifting-letters/) | Medium |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -682,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
