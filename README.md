@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0242-valid-anagram/) | Easy |
