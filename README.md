@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0282-expression-add-operators](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0299-bulls-and-cows](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0140-word-break-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0980-unique-paths-iii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -698,4 +700,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
