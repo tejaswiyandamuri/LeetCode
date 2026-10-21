@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
