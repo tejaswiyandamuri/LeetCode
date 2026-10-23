@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
