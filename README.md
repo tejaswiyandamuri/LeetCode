@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1518-water-bottles](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2409-count-days-spent-together](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tejaswiyandamuri/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
