@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -715,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -741,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/tejaswiyandamuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
