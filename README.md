@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0398-random-pick-index](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0412-fizz-buzz](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/tejaswiyandamuri/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
