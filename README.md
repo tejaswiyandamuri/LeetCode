@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tejaswiyandamuri/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Design
